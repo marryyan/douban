@@ -8,7 +8,7 @@
 .idea/
 
 # Dev
-dist/
+# dist/
 
 # Logs
 logs
