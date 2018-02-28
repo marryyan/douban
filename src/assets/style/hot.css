@@ -1,0 +1,25 @@
+.teleplay{
+  width: 700px;
+}
+.each-wrap{
+  display: inline-block;
+  width: 115px;
+  vertical-align:top;
+  text-decoration: none;
+  color: black;
+  font-size: 13px;
+  text-align: center;
+  padding: 12.5px;
+}
+.hot-img{
+  width: 115px;
+  height: 172.5px;
+}
+.isnew{
+  color: white;
+  background-color: green;
+  margin: 0 0.5em;
+}
+.hot-valuation{
+  color: orange;
+}

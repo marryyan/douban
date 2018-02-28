@@ -1,4 +1,4 @@
-Hot = [
+const Hot = [
   {
     name: "与神同行", 
     img: "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2500130777.jpg",
@@ -71,3 +71,4 @@ Hot = [
   }  
 ]
 
+export default Hot;
