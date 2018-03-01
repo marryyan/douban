@@ -3,8 +3,10 @@
 <br/>
 Collaborators
 <br/>
-<p>[ZZZ-Bin](https://github.com/ZZZ-Bin)</p>
-<p>[zhaoziyichou](https://github.com/zhaoziyichou)</p>
+[ZZZ-Bin](https://github.com/ZZZ-Bin)
+<br/>
+[zhaoziyichou](https://github.com/zhaoziyichou)
+<br/>
 <p>[songda1013](https://github.com/songda1013/)</p>
 
 
