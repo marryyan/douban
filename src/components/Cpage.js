@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import '../assets/style/Cpage.css'
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-const a = 3;
+
 const Dou = [
   {
     img:'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509508062.jpg',
@@ -86,16 +86,7 @@ export default class Apage extends Component {
         <div>
           <div className='db'>
             <Dsort/>
-            <div className="dcheck">
-                <label htmlFor="">
-                  <input type="radio" checked=''/>
-                  我没看过的
-                </label>
-                <label htmlFor="">
-                  <input type="radio" checked=''/>
-                  可在线播放的
-                </label>
-            </div>
+            <Dsora />
           </div>
           <div className='dlist'>
             {
@@ -133,6 +124,19 @@ const Dsort = () =>(
       <label htmlFor="">
           <input type="radio" checked=''/>
               按评价排序
+      </label>
+  </div>
+)
+
+const Dsora = ()=>(
+  <div className="dcheck">
+      <label htmlFor="">
+          <input type="radio" checked=''/>
+          我没看过的
+      </label>
+      <label htmlFor="">
+          <input type="radio" checked=''/>
+          可在线播放的
       </label>
   </div>
 )
