@@ -1,0 +1,12 @@
+.nav{
+    width: 50%;
+    overflow: hidden;
+    text-align: center;
+}
+.nav>a{
+    display: block;
+    float: left;
+    width: 230px;
+    text-decoration: none;
+    border: 1px solid black;
+}
