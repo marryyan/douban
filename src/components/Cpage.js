@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import '../assets/style/Cpage.css'
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-const a = 2;
+const a = 3;
 const Dou = [
   {
     img:'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509508062.jpg',
