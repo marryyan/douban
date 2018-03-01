@@ -1,4 +1,4 @@
-American = [
+const Hot = [
   {
     name: "天赋异禀 第一季",
     img: "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493581990.jpg",
@@ -70,3 +70,4 @@ American = [
     isnew: false
   }
 ]
+export default Hot;
