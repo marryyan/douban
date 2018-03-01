@@ -1,2 +1,7 @@
 # douban
-zhaobin is a big SB
+This is our frist program!!!
+Collaborators
+  @ZZZ.Bin
+  @songda1013
+  @sunlei
+  @Rain
